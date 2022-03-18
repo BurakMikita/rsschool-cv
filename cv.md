@@ -2,8 +2,6 @@
 
 ### Junior Frontend Developer
 
-<img alt="Burak Mikita" src="./img/face.jpg" width="300">
-
 ---
 
 ### Contacts

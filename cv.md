@@ -19,3 +19,22 @@
 ### About Me
 
 I have no bad habits, with a good sense of humor, sociable, purposeful, executive. I bring the matter to the end, no matter how much effort I need to put in - I learned this property in sports and programming. I am diversified, but I always like to discover something new for myself and I am always grateful to those who help me in this.
+
+## Skills
+
+- JavaScript, Node.js, Typescript
+- React.js
+- HTML, CSS
+- jQuery, Bootstrap
+- Git
+- VS Code
+- REST API
+- Photoshop,
+- Redux (Saga, Thunk)
+- Syntax javascript es6
+- WebSocket;
+- Hooks react и react-redux
+- Style-components
+- React-Bootstrap
+
+-—

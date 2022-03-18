@@ -1,2 +1,4 @@
 
-https://BurakMikita.github.io/rsschool-cv/cv
+
+
+https://BurakMikita.github.io/rsschool-cv/

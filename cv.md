@@ -38,3 +38,29 @@ I have no bad habits, with a good sense of humor, sociable, purposeful, executiv
 - React-Bootstrap
 
 -—
+
+### Code Explain
+
+**From codewords:**
+
+```
+function sortArray(arr) {
+const odds = arr
+.filter(x => x%2)
+.sort((a, b) => a - b);
+
+return arr.map(x=> x%2? odds.shift(): x)
+
+}
+```
+
+### Education
+
+**University**: Belarusian State University of Physical Culture
+
+Specialty: “football coach and physical education teacher“
+
+### Languages
+* English — B1
+* Italian - A1
+* Russian and Belarusian native
